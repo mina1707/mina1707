@@ -10,7 +10,7 @@ I am originally from Peru and I live in Seattle WA. I started my coding journal 
                        ◎ Databases: MySQL | MongoDB
                        ◎ Tools: Postman | Bootstrap | Excalidraw | Trello | Figma
 
-![giphy](https://user-images.githubusercontent.com/98005220/171296715-95e2eabb-2fe6-49ce-8440-712d7487a6d0.gif)               
+                   ![giphy](https://user-images.githubusercontent.com/98005220/171296715-95e2eabb-2fe6-49ce-8440-712d7487a6d0.gif)               
                
            
                        
