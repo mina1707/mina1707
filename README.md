@@ -1,7 +1,19 @@
-- 👋 Hi, I’m @mina1707
-- 👀 I’m interested in HTML, CSS AND JS
-- 🌱 I’m currently learning ... JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... xiomina1707@gmail.com
+             ✨    💖  ✨    💖✨    💖✨    💖✨    💖✨    💖   Hi, I am Mina!  💖   ✨    💖   ✨    💖   ✨    💖   ✨    💖
+                       
+                       
+I am originally from Peru and I live in Seattle WA. I started my coding journal last year. I was really lucky to go to Coding Dojo Bootcamp, where I have learned three different FULL STACK programming languages and different tools that enhance each of these, like data bases and frameworks. I have worked in a group project called PIX ( inspired by Tumblr), practicing GIT BRANCHING and AGILE DEVELOPMENT PROCESS to facilitate tasks organization, accountability and daily progresses. Next, on my solo project I focus on implementing different API's, writing a DRY code with the help of REACT and usage of different components to make the code REUSABLE and READABLE.
 
-See my last project at https://github.com/mina1707/Dojonary
+                       ◎ Connect with me: https://www.linkedin.com/in/xiomina-ramos/
+                       ◎ Languages: JavaScript, C#, Python, HTML, CSS
+                       ◎ Frameworks & Libraries: ASP .Net Core|  Flask| Jinja 2, React, Express
+                       ◎ Databases: MySQL | MongoDB
+                       ◎ Tools: Postman | Bootstrap | Excalidraw | Trello | Figma
+
+                       
+                       
+        <img![giphy](https://user-images.githubusercontent.com/98005220/171295698-46919eef-7743-478a-97f7-c7308d1c1931.gif)/>
+               
+
+               
+           
+                       
