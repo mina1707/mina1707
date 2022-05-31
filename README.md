@@ -11,7 +11,7 @@ I am originally from Peru and I live in Seattle WA. I started my coding journal 
 
                        
        
-   giphy.gif
+
                
 
                
