@@ -10,8 +10,8 @@ I am originally from Peru and I live in Seattle WA. I started my coding journal 
                        ◎ Tools: Postman | Bootstrap | Excalidraw | Trello | Figma
 
                        
-                       
-        <img![giphy](https://user-images.githubusercontent.com/98005220/171295698-46919eef-7743-478a-97f7-c7308d1c1931.gif)/>
+       
+                
                
 
                
